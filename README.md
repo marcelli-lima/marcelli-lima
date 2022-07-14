@@ -23,6 +23,6 @@
  <br>
 </div>
 
-- 👀 I’m interested in Front-End technologies like ReactJs
-- 🌱 I’m currently learning Java with Spring Data framework 
-- 📫 How to reach me email: marcelli_lima@hotmail.com 
+- 👀 Tenho interesse em tecnologias Front-End, foco em ReactJs
+- 🌱 Atualmente, estou estudando as funcionalidades do javascript ES6, testes com Jest e me aprofundando em ReactJS
+- 📫 Me contate pelo email: marcelli_lima@hotmail.com 
