@@ -14,7 +14,6 @@
   <img align="center" alt="Celi-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
           
-
  
 </div>
   
