@@ -27,5 +27,5 @@
 </div>
 
 - 👀 Tenho interesse em tecnologias Front-End, foco em ReactJs
-- 🌱 Atualmente, estou estudando as funcionalidades do javascript ES6 e me aprofundando em ReactJS com Typescript
+- 🌱 Atualmente, estou estudando as funcionalidades do javascript ES6 e me aprofundando em ReactJS e NodeJS com Typescript
 - 📫 Me contate pelo email: marcelli_lima@hotmail.com 
